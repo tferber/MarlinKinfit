@@ -1,0 +1,3 @@
+2016-05-25 (ferber) 
+Removed LeptonFitObject, TrackParticleFitObject, VertexConstraint, VertexFitObject (dependency on lcio and ILC EVENT).
+
